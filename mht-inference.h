@@ -1,5 +1,5 @@
-#ifndef lda_inference_h
-#define lda_inference_h
+#ifndef mht_inference_h
+#define mht_inference_h
 
 #include <stdio.h>
 #include <math.h>

@@ -1,5 +1,5 @@
-#ifndef lda_data_h
-#define lda_data_h
+#ifndef mht_data_h
+#define mht_data_h
 
 #include <stdio.h>
 #include <stdlib.h>

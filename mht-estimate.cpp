@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include "dataset.h"
 #include <iostream>
-#include "lda-estimate.h"
-#include "lda-inference.h"
+#include "mht-estimate.h"
+#include "mht-inference.h"
 #include <fstream>
 #include "string.h"
 

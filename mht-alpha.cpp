@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "lda-alpha.h"
+#include "mht-alpha.h"
 
 /*
  * objective function and its derivatives

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "lda-model.h"
+#include "mht-model.h"
 #include <iostream>
 /*
  * compute MLE lda model from sufficient statistics

@@ -1,5 +1,5 @@
-#ifndef lda_estimate_h
-#define lda_estimate_h
+#ifndef mht_estimate_h
+#define mht_estimate_h
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -10,9 +10,9 @@
 
 #include "utils.h"
 #include "dataset.h"
-#include "lda-inference.h"
-#include "lda-model.h"
-#include "lda-data.h"
+#include "mht-inference.h"
+#include "mht-model.h"
+#include "mht-data.h"
 
 int LAG=30;
 

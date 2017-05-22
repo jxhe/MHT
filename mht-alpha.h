@@ -1,5 +1,5 @@
-#ifndef lda_alpha_h
-#define lda_alpha_h
+#ifndef mht_alpha_h
+#define mht_alpha_h
 #include <stdlib.h>
 #include <math.h>
 #include <float.h>

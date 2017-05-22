@@ -1,4 +1,4 @@
-#include "lda-inference.h"
+#include "mht-inference.h"
 #include <iostream>
 #include <fstream>
 using namespace std;

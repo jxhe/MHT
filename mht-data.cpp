@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "lda-data.h"
+#include "mht-data.h"
 
 
 int max_corpus_length(dataset* c)

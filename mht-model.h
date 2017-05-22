@@ -1,11 +1,11 @@
-#ifndef LDA_MODEL_H
-#define LDA_MODEL_H
+#ifndef MHT_MODEL_H
+#define MHT_MODEL_H
 
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
 #include "dataset.h"
-#include "lda-alpha.h"
+#include "mht-alpha.h"
 #include "cokus.h"
 
 #define myrand() (double) (((unsigned long) randomMT()) / 4294967296.)
